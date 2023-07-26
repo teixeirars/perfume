@@ -1,0 +1,66 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    background-color: #f3eae3;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 , p , span , a , s{
+    background: none;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+span {
+    color: #3e8068;
+    font-size: 30px;
+    padding-right: 50px;
+    
+}
+
+a{
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    background-color: #3d8168;
+    width: 250px;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 30px;
+
+}
+
+s {
+    color: #000;
+    font-size: 15px;
+    
+}
+
+
+

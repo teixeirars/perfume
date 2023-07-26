@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav img {
+    border-radius: 5px 0px 0px 5px;
+}
+
+
+
+nav .quadrado {
+    background-color: #fff;
+    width: 320px;
+    height: 480px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 30px;
+}
+
+
+
+a {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,14 @@
+* {
+    background-color: #f3eae3;
+}
+
+@media (max-width: 576px) {
+     nav {
+      flex-direction: column;
+    }
+
+    #perfume {
+        width: 380px;
+    }
+}
+
